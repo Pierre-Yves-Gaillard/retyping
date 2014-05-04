@@ -1,4 +1,4 @@
-%\title{retyping-ad}
+%retyping-af
 % !TEX encoding = UTF-8 Unicode
 \documentclass[12pt]{article}
 \addtolength{\parskip}{.5\baselineskip}
@@ -522,5 +522,23 @@ $\beta)$ Pour tout $g\in G$, l'ensemble des $h \leq g$ est totalement ordonné e
 
 $\gamma)$ Si $g$, $g'$ sont des éléments distincts ayant même prédécesseur, l'ensemble $M_g$ des majorants de $g$ et celui $M_{g'}$ des majorants de $g$ ne sont pas isomorphes.
 
-\nn4) Soit $(A_n)_{n\geq 0}$ la suite des \emph{ordinaux} finis, définie par $A_0=\varnothing$, $A_{n+1}=A_n \cup \{A_n\}$. Montrer que l'ensemble ordonné $G(A_n)$ a $2^n$ éléments, et que le nombre de ses éléments de hauteur $q$ (au sens de l'exerc.~2)) est $\binom{n}{q}$.
+\nn4) Soit $(A_n)_{n\geq 0}$ la suite des \emph{ordinaux} finis, définie par $A_0=\varnothing$, $A_{n+1}=A_n \cup \{A_n\}$. Montrer que l'ensemble ordonné $G(A_n)$ a $2^n$ éléments, et que le nombre de ses éléments de hauteur $q$ (au sens de l'exerc.~2)) est $\binom{n}{q}$.\bigskip
+
+\centerline*
+
+This text is available at 
+
+\nn my site: \href{http://iecl.univ-lorraine.fr/~Pierre-Yves.Gaillard/DIVERS/Retyping/}{http://iecl.univ-lorraine.fr/$\sim$Pierre-Yves.Gaillard/DIVERS/Retyping/}
+
+\nn box.com: \href{https://app.box.com/s/il39ow5efnusznnbvik0}{https://app.box.com/s/il39ow5efnusznnbvik0}
+
+\nn dropbox: \href{https://www.dropbox.com/sh/tz9pw51vwia0d0v/6JoaTvW7of}{https://www.dropbox.com/sh/tz9pw51vwia0d0v/6JoaTvW7of}
+
+\nn github: \href{https://github.com/Pierre-Yves-Gaillard/retyping}{https://github.com/Pierre-Yves-Gaillard/retyping}
+
+\nn google: \href{http://goo.gl/J8lzRV}{http://goo.gl/J8lzRV}
+
+\nn mediafire: \href{https://www.mediafire.com/folder/q5jv3o9dg0vzz/Retyping}{https://www.mediafire.com/folder/q5jv3o9dg0vzz/Retyping}
+
+\nn mega: \href{https://mega.co.nz/#F!qE5j1ZQB!Vs6w2mIoggIxRQSinHxZZw}{https://mega.co.nz/\#F!qE5j1ZQB!Vs6w2mIoggIxRQSinHxZZw}
 \end{document}
