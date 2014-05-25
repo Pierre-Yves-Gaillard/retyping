@@ -1,4 +1,4 @@
-%retyping-af
+%retyping-ag
 % !TEX encoding = UTF-8 Unicode
 \documentclass[12pt]{article}
 \addtolength{\parskip}{.5\baselineskip}
@@ -63,7 +63,7 @@ Here are some links:
 
 \nn Direct link (Laszlo):
 
-\nn\href{http://www.math.polytechnique.fr/~laszlo/sga4/SGA4-1/sga41.pdf}{http://www.math.polytechnique.fr/~laszlo/sga4/SGA4-1/sga41.pdf}
+\nn\href{http://www.math.polytechnique.fr/~laszlo/sga4/SGA4-1/sga41.pdf}{http://www.math.polytechnique.fr/$\sim$laszlo/sga4/SGA4-1/sga41.pdf}
 
 \nn Direct link (Gaillard): \href{http://goo.gl/u8OEhO}{http://goo.gl/u8OEhO}
 
