@@ -1,4 +1,4 @@
-%retyping-ag
+%retyping-ah
 % !TEX encoding = UTF-8 Unicode
 \documentclass[12pt]{article}
 \addtolength{\parskip}{.5\baselineskip}
@@ -532,7 +532,7 @@ This text is available at
 
 \nn box.com: \href{https://app.box.com/s/il39ow5efnusznnbvik0}{https://app.box.com/s/il39ow5efnusznnbvik0}
 
-\nn dropbox: \href{https://www.dropbox.com/sh/tz9pw51vwia0d0v/6JoaTvW7of}{https://www.dropbox.com/sh/tz9pw51vwia0d0v/6JoaTvW7of}
+\nn dropbox: \href{http://goo.gl/G2oSgc}{http://goo.gl/G2oSgc}
 
 \nn github: \href{https://github.com/Pierre-Yves-Gaillard/retyping}{https://github.com/Pierre-Yves-Gaillard/retyping}
 
