@@ -1,7 +1,6 @@
 %retyping-ah
 % !TEX encoding = UTF-8 Unicode
 \documentclass[12pt]{article}
-\addtolength{\parskip}{.5\baselineskip}
 \usepackage{amssymb,amsmath}
 \usepackage[a4paper]{geometry}
 \usepackage[T1]{fontenc}
@@ -9,6 +8,7 @@
 \usepackage[french]{babel}
 \usepackage[pdfusetitle]{hyperref}
 \usepackage{datetime}
+\addtolength{\parskip}{.5\baselineskip}
 %\newtheorem{theorem}{Theorem}
 \newcommand{\nn}{\noindent}
 \newcommand{\card}{\operatorname{card}}
